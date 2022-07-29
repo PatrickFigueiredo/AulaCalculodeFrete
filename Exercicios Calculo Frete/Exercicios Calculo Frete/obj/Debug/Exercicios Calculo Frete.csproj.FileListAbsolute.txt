@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\bin\Debug\Exercicios Calculo Frete.exe.config
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\bin\Debug\Exercicios Calculo Frete.exe
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\bin\Debug\Exercicios Calculo Frete.pdb
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios Calculo Frete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios Calculo Frete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios_Calculo_Frete.Form1.resources
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios_Calculo_Frete.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios Calculo Frete.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios Calculo Frete.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios Calculo Frete.exe
+C:\Users\Aluno\Desktop\Patrick Inf 9\Projeto Senac\Exercicios Calculo Frete\Exercicios Calculo Frete\obj\Debug\Exercicios Calculo Frete.pdb
